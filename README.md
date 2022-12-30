@@ -8,6 +8,7 @@
 <h3>👋 <strong>Front-end web developer</strong></h3>
 <span>❤ UI & UX</span>
 <span>❤ Web Accessibility</span>
+<span>❤ Interactive Web</span>
 <span>❤ Design</span>
 <span>❤ Animation</span>
 <br>
