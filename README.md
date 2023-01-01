@@ -119,8 +119,10 @@
 
 <div align="center">
   
-[![Nalsae's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalsae&show_icons=true&title_color=6C5B4A&icon_color=C0B6A7&text_color=6e6e6e)](https://github.com/anuraghazra/github-readme-stats) <br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnalsae&count_bg=%23C0B6A7&title_bg=%236C5B4A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br><br>
+[![Nalsae's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalsae&show_icons=true&title_color=6C5B4A&icon_color=C0B6A7&text_color=6e6e6e)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnalsae&count_bg=%23C0B6A7&title_bg=%236C5B4A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br><br>
 
 </div>
   
